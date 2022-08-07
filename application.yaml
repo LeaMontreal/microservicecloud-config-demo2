@@ -12,4 +12,6 @@ spring:
   profiles: test #测试环境
   application:
     name: microservicecloud-config-lijun-test
+
+# --- 是分隔符
 # 一定要保存为UTF-8格式
